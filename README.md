@@ -1,5 +1,7 @@
 # PreEntrega2Rosales
 RESPOSITORIO PARA ENTREGA NUMERO 2 CODER HOUSE ADRIAN ROSALES PADILLA
+
+
 Se decidio hacer 2 paginas de todo el sitio con los elementos requeridos
 
 1.El index.html
